@@ -15,7 +15,7 @@ SmartShop is the frontend interface for the Smart E-Commerce Checkout Workflow. 
 
 Built as part of the **Cloud Computing** subject assignment for **MCA**.
 
-**Backend Repository:** https://github.com/albin-shaji/smart-ecommerce-checkout
+**Backend Repository:** https://github.com/abhisha-k/smart-ecommerce-checkout
 
 ---
 
@@ -112,7 +112,7 @@ frontend/
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/albin-shaji/smartshop-frontend.git
+git clone https://github.com/abhisha-k/smartshop-frontend.git
 cd smartshop-frontend
 ```
 
@@ -155,11 +155,3 @@ This project is licensed under the **MIT License**
 
 ---
 
-## 👨‍💻 Author
-
-**Albin Shaji**
-MCA Student | Palakkad, Kerala
-
-[![GitHub](https://img.shields.io/badge/GitHub-albin--shaji-black?logo=github)](https://github.com/albin-shaji)
-[![Portfolio](https://img.shields.io/badge/Portfolio-albinshaji.com-blue?logo=google-chrome)](https://albinshaji.com)
-[![Email](https://img.shields.io/badge/Email-albinshaji39k@gmail.com-red?logo=gmail)](mailto:albinshaji39k@gmail.com)
